@@ -1,2 +1,2 @@
-# ATM-Simulator
+# Snake Game
 IC group project
