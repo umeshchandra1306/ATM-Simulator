@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <conio.h>
 #include <windows.h>
+//hello world 
 
 #define WIDTH 40
 #define HEIGHT 20
@@ -145,4 +146,5 @@ int main() {
     printf("Game Over! Final Score: %d\n", score);
 
     return 0;
+
 }
